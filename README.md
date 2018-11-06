@@ -4,7 +4,7 @@
 
 # A tener en cuenta:
 
-Esta paractica el igual que la anterior que hemos hecho pero la diferencia mas notoria es que emplearemos tres maquinas:
+Esta práctica el igual que la anterior que hemos hecho pero la diferencia mas notoria es que emplearemos tres maquinas:
 
 - Dos de ellas actuaran de front-ent que las dos contendran el servidor web apache HTTP.
 - La tercera, back-end,donde instalaremos el servicio de MySQL.
