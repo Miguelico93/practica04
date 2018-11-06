@@ -2,7 +2,7 @@
 
 # Creación de una segunda máquina virtual para Apache.
 
-# Atener en cuenta:
+# A tener en cuenta:
 
 Esta paractica el igual que la anterior que hemos hecho pero la diferencia mas notoria es que emplearemos tres maquinas:
 
